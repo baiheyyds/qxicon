@@ -3,6 +3,10 @@
   "description": "By 大唐第一萌",
   "icons": [
      {
+      "name": "SCP",
+      "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/SCP.png"
+    },
+     {
       "name": "shadowrocket",
       "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/shadowrocket.png"
     },
