@@ -2,6 +2,10 @@
   "name": "萌新图标",
   "description": "By 大唐第一萌",
   "icons": [
+      {
+      "name": "lemu",
+      "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/lemu.png"
+    },
     {
       "name": "pixiv",
       "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/pixiv.png"
