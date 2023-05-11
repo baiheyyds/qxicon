@@ -3,6 +3,10 @@
   "description": "By 大唐第一萌",
   "icons": [
      {
+      "name": "ifreetime",
+      "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/ifreetime.png"
+    },
+     {
       "name": "cloudflare",
       "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/cloudflare.png"
     },
