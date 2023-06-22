@@ -2,7 +2,10 @@
   "name": "小萌新图标",
   "description": "By 大唐第一萌",
   "icons": [
-    
+    {
+      "name": "nano",
+      "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/nano.png"
+    },
      {
       "name": "bing",
       "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/bing.png"
