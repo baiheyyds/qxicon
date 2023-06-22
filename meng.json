@@ -2,10 +2,7 @@
   "name": "小萌新图标",
   "description": "By 大唐第一萌",
   "icons": [
-    {
-      "name": "Spotify",
-      "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/Spotify.png"
-    },
+   
     {
       "name": "nano",
       "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/nano.png"
