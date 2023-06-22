@@ -3,6 +3,10 @@
   "description": "By 大唐第一萌",
   "icons": [
      {
+      "name": "nanoport",
+      "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/nanoport.png"
+    },
+     {
       "name": "bing",
       "url": "https://raw.githubusercontent.com/baiheyyds/qxicon/main/icon/bing.png"
     },
